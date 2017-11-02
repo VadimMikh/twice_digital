@@ -218,7 +218,7 @@ body * { -webkit-box-sizing: border-box; box-sizing: border-box; }
   .footer-bottom .left, .footer-bottom .right { max-width: 100%; text-align: center; }
   .carousel-item { height: 200px; }
   .carousel-item-inner p { padding: 0 10px; font-size: 10px; line-height: 14px; }
-  .red-link { display: block; max-width: 90%; margin: 0 auto; } }
-.search_open, .menu_open { overflow: hidden; }
+  .red-link { display: block; max-width: 90%; margin: 0 auto; }
+  .search_open, .menu_open { overflow: hidden; } }
 
 /*# sourceMappingURL=../maps/main.css.map */
