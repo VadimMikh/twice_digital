@@ -1,0 +1,15 @@
+{
+  "name": "www",
+  "description": "www",
+  "main": "index.js",
+  "authors": [],
+  "license": "www",
+  "homepage": "www",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "fancybox": "^2.1.6",
+    "slick-carousel": "^1.8.1",
+    "malihu-custom-scrollbar-plugin": "^3.1.5"
+  }
+}

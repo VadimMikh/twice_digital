@@ -1,0 +1,6 @@
+{
+  "attr-lowercase": false,
+  "attr-value-not-empty": false,
+  "tag-self-close": true,
+  "alt-require": true
+}
